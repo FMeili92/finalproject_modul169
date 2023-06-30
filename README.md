@@ -45,9 +45,6 @@ npm start
 
 Beiträge zu diesem Projekt sind willkommen. Bitte reichen Sie Probleme und Pull Requests ein, um die Funktionalität und Leistung des Chatbots zu verbessern.
 
-## Lizenz
-
-Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
 
 ## Danksagungen
 
