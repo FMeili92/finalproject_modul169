@@ -55,4 +55,3 @@ Dieses Projekt nutzt folgende Technologien und Bibliotheken:
 - OpenAI API
 - Node.js
 
-Ein besonderer Dank gilt OpenAI für die Bereitstellung des leistungsstarken GPT-3.5-turbo-Modells.
