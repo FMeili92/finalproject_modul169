@@ -17,6 +17,7 @@ Um den Chatbot auszuführen, stellen Sie sicher, dass Sie die folgenden Abhängi
 
 ```shell
 npm install
+npm start
 ```
 
 3. Richten Sie eine Firebase-Echtzeitdatenbank ein und erhalten Sie den `apiKey` aus Ihrem Firebase-Projekt.
